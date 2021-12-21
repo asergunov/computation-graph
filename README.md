@@ -1,5 +1,5 @@
 # Computation graph
-:warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
+> :warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
 
 This means to be a modern c++ template-based [computation graph](https://en.m.wikipedia.org/wiki/Dependency_graph) library.
 
