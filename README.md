@@ -1,7 +1,7 @@
 # Computation graph
 > :warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
 
-This means to be a modern c++ template-based [computation graph](https://en.m.wikipedia.org/wiki/Dependency_graph) library.
+This means to be a modern c++ template-based [computation graph](https://en.m.wikipedia.org/wiki/Dependency_graph) implementation.
 
 # Copyright notice
 Author are not using and not going to use any intellectual property of any company author is working or was working for by any kind of contracts.
